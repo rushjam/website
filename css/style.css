@@ -54,8 +54,8 @@
 } */
 
 /* .parax {
-    background-image: url("/img/4_new.png");
-    background-image: url("/img/3_new.png");
+    background-image: url("../img/4_new.png");
+    background-image: url("../img/3_new.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -93,7 +93,7 @@ body {
   
   #hero-mobile {
     display: none;
-    background: url("/img/full_illustration.png") no-repeat center bottom/cover;
+    background: url("../img/full_illustration.png") no-repeat center bottom/cover;
     height: 320px;
   }
   
@@ -122,25 +122,25 @@ body {
   }
   
   .layer-bg {
-    background-image: url("/img/4_new.png");
+    background-image: url("../img/4_new.png");
   }
   
   .layer-1 {
-    background-image: url("/img/3_new.png");
+    background-image: url("../img/3_new.png");
     /* background-position: left bottom; */
   }
   
   .layer-2 {
-    /* background-image: url("/img/3_new.png"); */
+    /* background-image: url("../img/3_new.png"); */
   }
   
   .layer-3 {
-    background-image: url("/img/2_new.png");
+    background-image: url("../img/2_new.png");
     background-position: right bottom;
   }
   
   .layer-4 {
-    background-image: url("/img/1_new.png");
+    background-image: url("../img/1_new.png");
     background-position: 80% bottom  ;
     
   }
